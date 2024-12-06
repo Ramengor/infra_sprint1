@@ -1,0 +1,5 @@
+IP: 89.169.169.195;
+name_taski: https://slavahome.zapto.org;
+name_kittygram: https://slavainfra.zapto.org;
+login: slava;
+password: ckfdfb2022;
